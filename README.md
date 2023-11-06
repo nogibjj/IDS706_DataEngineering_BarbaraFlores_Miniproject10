@@ -14,7 +14,7 @@ The goal of this miniproject is to leverage PySpark for efficient data processin
 ### 📊 Database
 
 **Top Spotify Songs in 73 Countries (Daily Updated)**  
-[top-spotify-songs-in-73-countries-daily-updated](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/)
+[SpotifyDataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/)
 
 This dataset presents the top songs currently trending in over 70 countries, providing valuable insights into the music industry's dynamics. It includes a wide range of information on the most popular songs in the world, such as unique Spotify identifiers, song names, artists, daily rankings, daily movement in rankings, and more.
 
