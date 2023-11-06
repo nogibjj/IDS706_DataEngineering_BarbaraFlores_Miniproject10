@@ -99,25 +99,25 @@ The total number of countries in our database is: 88
 ![Step 2: Clone the repository](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/main/images/Step2.png)
 
 
-   - Make sure you have Python 3.8 or later installed on your system.
-   - Install project dependencies:
+- Make sure you have Python 3.8 or later installed on your system.
+- Install project dependencies:
 
-     ```bash
-     pip install -r requirements.txt
-     ```
+```bash
+pip install -r requirements.txt
+```
 
 3. Run the Project:
 
-   - Run the project script by executing the following command:
+- Run the project script by executing the following command:
 
-     ```bash
-     python src/main.py
-     ```
+```bash
+python src/main.py
+```
 
 4. Explore the Output:
 
-   - Once the script has run successfully, you will find the analysis results in the `output/AnalysisResults.md` file. You can open this Markdown file to view the project's findings.
+- Once the script has run successfully, you will find the analysis results in the [`output/AnalysisResults.md`](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md) file. You can open this Markdown file to view the project's findings.
 
-   - Additionally, you can modify and extend the project code in the `src/main.py` file to perform further data processing and analysis as needed.
+- Additionally, you can modify and extend the project code in the `src/main.py` file to perform further data processing and analysis as needed.
 
 Now you're all set to work with this project! Enjoy exploring the data and performing data analysis with PySpark.
