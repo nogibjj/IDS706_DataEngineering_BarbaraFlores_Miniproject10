@@ -12,7 +12,6 @@ format:
 
 lint:
 	#pylint --disable=R,C --ignore-patterns=test_.*?py *.py mylib/*.py
-	nbqa ruff src/*.ipynb
 	ruff check src/*.py
 
 container-lint:
