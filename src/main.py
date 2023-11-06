@@ -47,12 +47,12 @@ def perform_data_analysis():
 
     with open("output/AnalysisResults.md", "w", encoding="utf-8") as md_file:
         md_file.write("")
-        md_file.write("## Data Analysis with PySpark\n\n")
+        md_file.write("### Data Analysis with PySpark\n\n")
         md_file.write(f"The total number of records in our dataset is: {total_records:,}\n\n")
         md_file.write(f"The total number of countries in our database is: {total_countries}\n\n")
-        md_file.write("### Top Artists with Most Records\n\n")
+        md_file.write("#### Top Artists with Most Records\n\n")
         md_file.write(tabulate(artist_counts, headers=["Artist", "Record Count"], tablefmt='pipe'))
-        md_file.write("\n\n### Top Songs with Most Records\n\n")
+        md_file.write("\n\n#### Top Songs with Most Records\n\n")
         md_file.write(tabulate(song_counts, headers=["Song", "Artist", "Record Count"], tablefmt='pipe'))
 
 

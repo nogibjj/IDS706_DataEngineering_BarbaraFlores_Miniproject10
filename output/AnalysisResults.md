@@ -1,10 +1,10 @@
-## Data Analysis with PySpark
+### Data Analysis with PySpark
 
 The total number of records in our dataset is: 72,958
 
 The total number of countries in our database is: 88
 
-### Top Artists with Most Records
+#### Top Artists with Most Records
 
 | Artist           |   Record Count |
 |:-----------------|---------------:|
@@ -14,7 +14,7 @@ The total number of countries in our database is: 88
 | BIZARRAP, MILO J |            947 |
 | TATE MCRAE       |            880 |
 
-### Top Songs with Most Records
+#### Top Songs with Most Records
 
 | Song                                | Artist           |   Record Count |
 |:------------------------------------|:-----------------|---------------:|
