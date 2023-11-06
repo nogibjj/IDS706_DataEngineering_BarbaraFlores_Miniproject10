@@ -96,6 +96,8 @@ The total number of countries in our database is: 88
 
 2. Create a Codespace and Set Up Your Development Environment
 
+![Step 2: Clone the repository](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/main/images/Step2.png)
+
 
    - Make sure you have Python 3.8 or later installed on your system.
    - Install project dependencies:
