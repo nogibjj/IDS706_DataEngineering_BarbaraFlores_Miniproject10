@@ -22,7 +22,7 @@ This dataset comprises 25 variables (columns) and was extracted on 2023-11-05. I
 
 In this project, we utilize the capabilities of PySpark to efficiently process a large dataset. PySpark empowers us to read and analyze data seamlessly, combining the power of Spark SQL for advanced queries and data transformations.
 
-You can explore the analysis code in [main.py](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/src/main.py) to understand how the data processing with PySpark was performed. The output of the analysis is available in [country_count.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/country_count.md). This report provides insights into the total number of countries within our dataset.
+You can explore the analysis code in [main.py](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/src/main.py) to understand how the data processing with PySpark was performed. The output of the analysis is available in [AnalysisResults.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md) This report provides insights into the total number of countries within our dataset.
 
 Using PySpark, we can efficiently manage large-scale data, leveraging distributed computing to perform complex operations smoothly. With built-in support for Spark SQL, we can execute SQL queries on our dataset to gain valuable insights.
 
