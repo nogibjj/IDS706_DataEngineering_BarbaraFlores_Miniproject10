@@ -6,19 +6,19 @@
 
 
 IDS706_DataEngineering_BarbaraFlores_Miniproject10
-## 📂 PySpark Data Processing
+# 📂 PySpark Data Processing
 
 The goal of this miniproject is to leverage PySpark for efficient data processing. In Week 10, we focus on using PySpark to work with large datasets, incorporating Spark SQL queries and data transformations to meet the specified requirements. Explore the power of PySpark in this project as we dive into data processing with a focus on functionality, SQL integration, and the delivery of a PySpark script and a comprehensive output report.
 
 
-### 📊 Database
+## 📊 Database
 
 For this project, we will utilize the [Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/) dataset. This dataset provides a comprehensive view of the top songs trending in over 70 countries, offering valuable insights into the dynamics of the music industry. It includes a wide range of information on the most popular songs in the world, such as unique Spotify identifiers, song names, artists, daily rankings, daily movement in rankings, and more.
 
 This dataset comprises 25 variables (columns) and was extracted on 2023-11-05. In total, it contains 72.959 records.
 
 
-### 📦 Data Processing with PySpark
+## 📦 Data Processing with PySpark
 
 In this project, we utilize the capabilities of PySpark to efficiently process a large dataset. PySpark empowers us to read and analyze data seamlessly, combining the power of Spark SQL for advanced queries and data transformations.
 
@@ -34,7 +34,7 @@ In our project, we executed several transformations to prepare and analyze the d
 
 Additionally, we leveraged Spark SQL for advanced data querying and analysis, which included counting total records, determining unique country counts, identifying top artists, and finding the most played songs. These insights effectively fulfilled the project requirements.
 
-### Results
+## Results
 As previously mentioned, the results obtained from our code are stored in file [AnalysisResults.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md), which include:
 
 ## Data Analysis with PySpark
