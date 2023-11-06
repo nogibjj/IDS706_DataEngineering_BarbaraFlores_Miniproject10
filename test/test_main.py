@@ -14,7 +14,7 @@ def calculate_country_count():
 
     markdown_table = tabulate(country_count.collect(), headers=['Country', 'Count'], tablefmt='pipe')
 
-    with open("output/country_count.md", "w") as md_file:
+    with open("output/AnalysisResults.md", "w") as md_file:
         md_file.write("# Data Analysis with PySpark\n\nThe total number of countries in our database is:\n\n")  # Línea de título
         md_file.write(markdown_table)
 
