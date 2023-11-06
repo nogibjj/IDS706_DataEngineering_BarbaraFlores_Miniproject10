@@ -20,18 +20,13 @@ This dataset comprises 25 variables (columns) and was extracted on 2023-11-05. I
 
 ### 📦 Data Processing with PySpark
 
-In this project, we harness the power of PySpark for data processing on a large dataset. Using PySpark, we efficiently read the dataset and perform various data processing tasks, including Spark SQL queries and data transformations, to meet the specified requirements. The results of our analysis and processing will be saved in the "output" directory for further inspection and reference.
+In this project, we utilize the capabilities of PySpark to efficiently process a large dataset. PySpark empowers us to read and analyze data seamlessly, combining the power of Spark SQL for advanced queries and data transformations.
 
-#### Using PySpark
+You can explore the analysis code in [main.py](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/src/main.py) to understand how the data processing with PySpark was performed.
 
-We utilize PySpark, a fast and powerful data processing framework, to handle large-scale data efficiently. PySpark allows us to take advantage of distributed computing capabilities and perform complex data operations seamlessly. With its support for Spark SQL, we can easily query and analyze the dataset.
+The output of the analysis is available in [country_count.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/country_count.md). This report provides insights into the total number of countries within our dataset.
 
-#### Output Data
-
-The results of our data processing, which may include summary reports, will be saved in the "output" directory. You can find detailed reports, visualizations, or any other output data that provides insights into the dataset.
-
-We hope to demonstrate the full potential of PySpark for efficient and effective data processing in this project. Stay tuned for further updates and insights.
-
+Using PySpark, we can efficiently manage large-scale data, leveraging distributed computing to perform complex operations smoothly. With built-in support for Spark SQL, we can execute SQL queries on our dataset to gain valuable insights.
 
 
 
