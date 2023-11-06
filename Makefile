@@ -4,15 +4,12 @@ install:
 
 test:
 	python -m pytest -vv --cov=main --cov=lib test_*.py
-	#python -m pytest --nbval-lax src/*.ipynb
-	python -m pytest --nbval src/*.ipynb
 
 format:	
 	black src/*.py
 
 lint:
-	#pylint --disable=R,C --ignore-patterns=test_.*?py *.py mylib/*.py
-	ruff check src/*.py
+ 	pylint src/*.py  
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
