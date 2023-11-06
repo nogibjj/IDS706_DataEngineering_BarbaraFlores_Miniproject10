@@ -34,7 +34,7 @@ In our project, we executed several transformations to prepare and analyze the d
 
 Additionally, we leveraged Spark SQL for advanced data querying and analysis, which included counting total records, determining unique country counts, identifying top artists, and finding the most played songs. These insights effectively fulfilled the project requirements.
 
-## Results
+## 📈 Results
 As previously mentioned, the results obtained from our code are stored in file [AnalysisResults.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md), which include:
 
 ### Data Analysis with PySpark
