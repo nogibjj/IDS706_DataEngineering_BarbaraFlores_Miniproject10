@@ -22,11 +22,26 @@ def calculate_country_count():
     """)
 
     total_countries = country_count.first()["total_countries"]
+    
+
+    artist_counts_query = spark.sql("""
+        SELECT artists, COUNT(*) AS records_count
+        FROM spotify_data
+        GROUP BY artists
+        ORDER BY records_count DESC
+    """)
+
+    artist_counts = artist_counts_query.limit(5).collect()
+
 
     with open("output/AnalysisResults.md", "w", encoding="utf-8") as md_file:
-        md_file.write("#Data Analysis with PySpark\n\n")
+        md_file.write("")
+        md_file.write("## Data Analysis with PySpark\n\n")
         md_file.write(f"The total number of records in our dataset is: {total_records}\n\n")
         md_file.write(f"The total number of countries in our database is: {total_countries}\n\n")
+        md_file.write("### Top Artists with Most Records\n\n")
+        md_file.write(tabulate(artist_counts, headers=["Artist", "Record Count"], tablefmt='pipe'))
+
 
 
     spark.stop()
