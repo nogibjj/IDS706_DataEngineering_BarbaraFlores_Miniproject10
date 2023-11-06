@@ -1,6 +1,6 @@
 ## Data Analysis with PySpark
 
-The total number of records in our dataset is: 72958
+The total number of records in our dataset is: 72,958
 
 The total number of countries in our database is: 88
 
@@ -8,18 +8,18 @@ The total number of countries in our database is: 88
 
 | Artist           |   Record Count |
 |:-----------------|---------------:|
-| Taylor Swift     |           3537 |
-| Bad Bunny        |           2600 |
-| Doja Cat         |           1083 |
-| Bizarrap, Milo j |            947 |
-| Tate McRae       |            880 |
+| TAYLOR SWIFT     |           3537 |
+| BAD BUNNY        |           2600 |
+| DOJA CAT         |           1083 |
+| BIZARRAP, MILO J |            947 |
+| TATE MCRAE       |            880 |
 
 ### Top Songs with Most Records
 
 | Song                                | Artist           |   Record Count |
 |:------------------------------------|:-----------------|---------------:|
-| greedy                              | Tate McRae       |            880 |
-| Paint The Town Red                  | Doja Cat         |            853 |
-| Si No Estás                         | iñigo quintero   |            847 |
-| Strangers                           | Kenya Grace      |            788 |
-| Seven (feat. Latto) (Explicit Ver.) | Jung Kook, Latto |            662 |
+| GREEDY                              | TATE MCRAE       |            880 |
+| PAINT THE TOWN RED                  | DOJA CAT         |            853 |
+| SI NO ESTÁS                         | IÑIGO QUINTERO   |            847 |
+| STRANGERS                           | KENYA GRACE      |            788 |
+| SEVEN (FEAT. LATTO) (EXPLICIT VER.) | JUNG KOOK, LATTO |            662 |
