@@ -18,6 +18,9 @@ The goal of this miniproject is to leverage PySpark for efficient data processin
 ├── README.md
 ├── data
 │   └── universal_top_spotify_songs.csv
+├── images
+│   ├── Step1.png
+│   └── Step2.png
 ├── output
 │   └── AnalysisResults.md
 ├── requirements.txt
@@ -28,6 +31,7 @@ The goal of this miniproject is to leverage PySpark for efficient data processin
     ├── __pycache__
     │   └── test_main.cpython-38-pytest-7.1.3.pyc
     └── test_main.py
+
 ```
 
 ## 📊 Database
