@@ -27,9 +27,12 @@ You can explore the analysis code in [main.py](https://github.com/nogibjj/IDS706
 Using PySpark, we can efficiently manage large-scale data, leveraging distributed computing to perform complex operations smoothly. With built-in support for Spark SQL, we can execute SQL queries on our dataset to gain valuable insights.
 
 **Transformations Performed:**
+
 In our project, we executed several transformations to prepare and analyze the dataset. We prepared the dataset by converting 'name' and 'artists' values to uppercase. This enhanced data uniformity and prepared it for subsequent queries.
 
-**Spark SQL Analysis:** Additionally, we leveraged Spark SQL for advanced data querying and analysis, which included counting total records, determining unique country counts, identifying top artists, and finding the most played songs. These insights effectively fulfilled the project requirements.
+**Spark SQL Analysis:** 
+
+Additionally, we leveraged Spark SQL for advanced data querying and analysis, which included counting total records, determining unique country counts, identifying top artists, and finding the most played songs. These insights effectively fulfilled the project requirements.
 
 
 
