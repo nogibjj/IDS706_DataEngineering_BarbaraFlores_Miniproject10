@@ -10,6 +10,25 @@ IDS706_DataEngineering_BarbaraFlores_Miniproject10
 
 The goal of this miniproject is to leverage PySpark for efficient data processing. In Week 10, we focus on using PySpark to work with large datasets, incorporating Spark SQL queries and data transformations to meet the specified requirements. Explore the power of PySpark in this project as we dive into data processing with a focus on functionality, SQL integration, and the delivery of a PySpark script and a comprehensive output report.
 
+## 🌳 📊 Project Structure:
+```bash
+.
+├── LICENSE
+├── Makefile
+├── README.md
+├── data
+│   └── universal_top_spotify_songs.csv
+├── output
+│   └── AnalysisResults.md
+├── requirements.txt
+├── setup.sh
+├── src
+│   └── main.py
+└── test
+    ├── __pycache__
+    │   └── test_main.cpython-38-pytest-7.1.3.pyc
+    └── test_main.py
+```
 
 ## 📊 Database
 
