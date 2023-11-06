@@ -37,13 +37,13 @@ Additionally, we leveraged Spark SQL for advanced data querying and analysis, wh
 ## Results
 As previously mentioned, the results obtained from our code are stored in file [AnalysisResults.md](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md), which include:
 
-## Data Analysis with PySpark
+### Data Analysis with PySpark
 
 The total number of records in our dataset is: 72,958
 
 The total number of countries in our database is: 88
 
-### Top Artists with Most Records
+#### Top Artists with Most Records
 
 | Artist           |   Record Count |
 |:-----------------|---------------:|
@@ -53,7 +53,7 @@ The total number of countries in our database is: 88
 | BIZARRAP, MILO J |            947 |
 | TATE MCRAE       |            880 |
 
-### Top Songs with Most Records
+#### Top Songs with Most Records
 
 | Song                                | Artist           |   Record Count |
 |:------------------------------------|:-----------------|---------------:|
@@ -62,7 +62,6 @@ The total number of countries in our database is: 88
 | SI NO ESTÁS                         | IÑIGO QUINTERO   |            847 |
 | STRANGERS                           | KENYA GRACE      |            788 |
 | SEVEN (FEAT. LATTO) (EXPLICIT VER.) | JUNG KOOK, LATTO |            662 |
-
 
 
 
