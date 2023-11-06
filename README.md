@@ -116,7 +116,7 @@ python src/main.py
 
 4. Explore the Output:
 
-- Once the script has run successfully, you will find the analysis results in the [`output/AnalysisResults.md`](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/blob/main/output/AnalysisResults.md) file. You can open this Markdown file to view the project's findings.
+- Once the script has run successfully, you will find the analysis results in the `output/AnalysisResults.md` file. You can open this Markdown file to view the project's findings.
 
 - Additionally, you can modify and extend the project code in the `src/main.py` file to perform further data processing and analysis as needed.
 
