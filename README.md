@@ -18,6 +18,21 @@ For this project, we will utilize the [Top Spotify Songs in 73 Countries](https:
 This dataset comprises 25 variables (columns) and was extracted on 2023-11-05. In total, it contains 72.959 records.
 
 
+### 📦 Data Processing with PySpark
+
+In this project, we harness the power of PySpark for data processing on a large dataset. Using PySpark, we efficiently read the dataset and perform various data processing tasks, including Spark SQL queries and data transformations, to meet the specified requirements. The results of our analysis and processing will be saved in the "output" directory for further inspection and reference.
+
+#### Using PySpark
+
+We utilize PySpark, a fast and powerful data processing framework, to handle large-scale data efficiently. PySpark allows us to take advantage of distributed computing capabilities and perform complex data operations seamlessly. With its support for Spark SQL, we can easily query and analyze the dataset.
+
+#### Output Data
+
+The results of our data processing, which may include summary reports, will be saved in the "output" directory. You can find detailed reports, visualizations, or any other output data that provides insights into the dataset.
+
+We hope to demonstrate the full potential of PySpark for efficient and effective data processing in this project. Stay tuned for further updates and insights.
+
+
 
 
 
