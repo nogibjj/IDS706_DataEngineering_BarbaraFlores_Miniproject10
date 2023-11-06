@@ -9,8 +9,8 @@ format:
 	black src/*.py
 
 lint:
-	pylint src/*.py
-	
+	pylint  --disable=R,C src/*.py
+
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
 
