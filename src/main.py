@@ -7,6 +7,7 @@ df = spark.read.csv(path, header=True, inferSchema=True)
 
 df.createOrReplaceTempView("spotify_data")
 
+
 country_count = spark.sql("""
     SELECT COUNT(DISTINCT country) AS total_countries
     FROM spotify_data
@@ -15,7 +16,7 @@ country_count = spark.sql("""
 markdown_table = tabulate(country_count.collect(), headers=['Country', 'Count'], tablefmt='pipe')
 
 with open("output/country_count.md", "w") as md_file:
-    md_file.write("# Total de Países Contados\n")  # Línea de título
+    md_file.write("#Data Analysis with PySpark\n\nThe total number of countries in our database is:\n\n")  # Línea de título
     md_file.write(markdown_table)
 
 
