@@ -91,7 +91,7 @@ The total number of countries in our database is: 88
    
    Go to the [repository page](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/tree/main), then click on "Use this template," and then "Create New Repository."
 
-![Step 1: Clone the repository](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project2/main/images/Step01.png)
+![Step 1: Clone the repository](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/main/images/Step01.png)
 
 
 2. Create a Codespace and Set Up Your Development Environment
