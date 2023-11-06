@@ -1,7 +1,7 @@
 from pyspark.sql import SparkSession
 from tabulate import tabulate
 
-def calculate_country_count():
+def perform_data_analysis():
     spark = SparkSession.builder.appName("Data Analysis with PySpark").getOrCreate()
     path = "data/universal_top_spotify_songs.csv"
     df = spark.read.csv(path, header=True, inferSchema=True)
@@ -21,4 +21,4 @@ def calculate_country_count():
     spark.stop()
 
 if __name__ == "__main__":
-    calculate_country_count()
+    perform_data_analysis()

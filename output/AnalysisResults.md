@@ -13,3 +13,13 @@ The total number of countries in our database is: 88
 | Doja Cat         |           1083 |
 | Bizarrap, Milo j |            947 |
 | Tate McRae       |            880 |
+
+### Top Songs with Most Records
+
+| Song                                | Artist           |   Record Count |
+|:------------------------------------|:-----------------|---------------:|
+| greedy                              | Tate McRae       |            880 |
+| Paint The Town Red                  | Doja Cat         |            853 |
+| Si No Estás                         | iñigo quintero   |            847 |
+| Strangers                           | Kenya Grace      |            788 |
+| Seven (feat. Latto) (Explicit Ver.) | Jung Kook, Latto |            662 |
