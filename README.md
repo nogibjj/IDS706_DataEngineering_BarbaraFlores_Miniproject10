@@ -1,5 +1,5 @@
-[![Format](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/format.yml)
-[![Lint](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/lint.yml)
+[![Format](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/lint.yml)
 [![Install](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/install.yml)
 [![Test](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject10/actions/workflows/test.yml)
 
